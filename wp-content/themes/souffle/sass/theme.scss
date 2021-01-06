@@ -1,0 +1,11 @@
+/* Variables */
+@import "./var";
+
+/* Bootstrap 4 */
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+/* default styles */
+@import "./souffle";
+
+/* Custom styles */
+@import "./_theme";
