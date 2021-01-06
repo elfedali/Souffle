@@ -3,8 +3,7 @@ extract($data);
 // WP_Query arguments
 $args = array(
     'post_type'              => array('post'),
-    'nopaging'               => true,
-    'posts_per_page'         => '3',
+    'posts_per_page'         => 3,
     'order'                  => 'DESC',
 );
 

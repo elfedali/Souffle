@@ -16,7 +16,7 @@ Wordpress theme based on `bootstrap` css framework
  $ git init
  $ git add . & git commit -m "Think different!"
  $ git branch -m main-holder
- $ git remote add origin https://github.com/elfedali/souffle.git
+ $ git remote add origin https://github.com/elfedali/Souffle.git
  $ git fetch origin main 
  $ git checkout main  
  $ git remote set-url origin **new.git.url/here**

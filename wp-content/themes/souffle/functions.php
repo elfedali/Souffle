@@ -200,6 +200,9 @@ if (defined('JETPACK__VERSION')) {
 
 require get_template_directory() . '/inc/class-wp-bootstrap-navwalker.php';
 
+// pagination
+require get_template_directory() . '/inc/pagination.php';
+
 // Helpers
 require get_template_directory() . '/inc/helpers.php';
 
